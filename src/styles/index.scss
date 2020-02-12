@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+$body-color: blue;
+
+body {
+  color: $body-color;
+  font-family: sans-serif;
+}
